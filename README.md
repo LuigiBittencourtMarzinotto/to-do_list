@@ -1,1 +1,2 @@
 # to-do_list
+O professor do curso de python pediu para fazer uma lista de tarefas, na qual, para adicionar você bastava só escrever algo sem ser os comandos estipulados, e para remover seria desfazer e volta a tarefa apagada seria com o comando refazer, sendo que voltaria desde o primeiro que foi apagado, assim então resolvi fazer isso usando o json como "banco de dados", no qual, poderia depois chegar faria a verificação para retorna o valor apagado, pois no json só adicionar não apaga. Caso o json não esteja criado o código sozinho o cria.
